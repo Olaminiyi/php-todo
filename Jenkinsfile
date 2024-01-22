@@ -77,5 +77,7 @@ pipeline {
 
              server.upload spec: uploadSpec
            }
+      }
+  }
 }
 }
